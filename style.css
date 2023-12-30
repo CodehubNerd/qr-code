@@ -7,7 +7,7 @@ body {
 .container {
   /*width: 100%;*/
 
-  width: 450px; /*change this to a spefic size , not 100% . I will tell u when to use 100%, but we use 100% in images most of the time , to avoid cutting the image when screen is small*/
+  width: 380px; /*change this to a spefic size , not 100% . I will tell u when to use 100%, but we use 100% in images most of the time , to avoid cutting the image when screen is small*/
   /*max-width: 600px;  - I removed this line of code */
   background-color: hsl(212, 45%, 89%);
   border-radius: 20px;
